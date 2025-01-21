@@ -3,7 +3,7 @@
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world & are now facing stiff competition from streaming services such as Netlfix & Amazon Prime.
 The Rockbuster tem is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. 
 
-## Objectives for Company Strategy 
+## Objectives for figuring out Company Strategy 
 
  Which  movies  contributed  the  most/least  to  revenue  gain? 
  What  was  the  average  rental  duration  for  all  videos? 
