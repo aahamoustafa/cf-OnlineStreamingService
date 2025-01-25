@@ -22,7 +22,7 @@ The dataset was loaded into a PostgreSQL relational database management system (
 1. **Data Aggregation & Preparation:** SQL queries were used to extract and combine data from different tables.
 2. **Statistical Analysis:** Patterns and trends in revenue and rental durations were analyzed.
 3. **Geographic Insights:** Sales data was mapped to identify high-value regions.
-4. **Data Visualization:** Insights were presented using tools like Excel and Tableau for better stakeholder communication.
+4. **Data Visualization:** Insights were presented using Excel and Tableau for better stakeholder communication.
 
 ## ❓ Key Questions Addressed
 - Which movies contributed the most/least to revenue?
@@ -59,7 +59,4 @@ The dataset was loaded into a PostgreSQL relational database management system (
 - **Analysis Tools:** SQL, Excel, Tableau
 - **Visualization:** Charts and dashboards to communicate findings effectively.
 
-## 🌐 Contact
-**Abdelrahman Moustafa**  
-📧 aahamoustafa@gmail.com
 
