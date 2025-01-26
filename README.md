@@ -35,13 +35,18 @@ The dataset was loaded into a PostgreSQL relational database management system (
 1. **Top Revenue Markets:**
    - India, China, and the United States collectively contributed 24.3% of total revenue.
    - These regions are critical for targeted marketing efforts.
+  
+   ![Revenue](Visualizations/Revenue.png)
 
 2. **Customer Behavior:**
    - The average rental duration for videos is 5 days, with a range of 3 to 7 days.
    - High-value customers are concentrated in key regions like India and China.
+  
+     ![Map](Visualizations/Map.png)
 
 3. **Movie Performance:**
    - The top and bottom 5 movies had minimal impact on overall revenue, suggesting broader customer acquisition is more impactful than individual movie performance.
+     ![TopMovies](Visualizations/TopMovies.png)
 
 ### Strategic Recommendations
 - **Target High-Revenue Markets:** Focus on India, China, and the US with tailored campaigns.
